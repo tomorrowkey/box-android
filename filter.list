@@ -1,8 +1,6 @@
+tools
 platform-tools
 android-23
-android-22
-android-21
-sys-img-armeabi-v7a-android-22
 extra-android-support
 extra-android-m2repository
 extra-google-m2repository
