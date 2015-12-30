@@ -18,9 +18,6 @@ export ANDROID_BUILD_TOOLS="23.0.2"
 export ANDROID_VERSION="6.0"
 source $WERCKER_SOURCE_DIR/install-build-tools.sh
 
-export ANDROID_BUILD_TOOLS="23.0.2"
-
-
 # Write environment variables setup to $profile
 echo "export ANDROID_HOME=\"${ANDROID_HOME}\"" | sudo tee -a $profile
 echo "export ANDROID_SDK_VERSION=\"${ANDROID_SDK_VERSION}\"" | sudo tee -a $profile
