@@ -1,5 +1,5 @@
 name: android
-version: 2.2.0
+version: 2.3.0
 inherits: tomorrowkey/java@0.2.0
 type: main
 platform: ubuntu@12.04
